@@ -1,0 +1,12 @@
+a=input("ENTER THE FIRST NUMBER:")
+b=input("ENTER THE SECOND NUMBER:")
+a=float(a)
+b=float(b)
+q=a+b
+print('the sum of numbers=', q)
+r=a-b
+print('the difference of numbers=', r)
+w=a*b
+print('the product of numbers=', w)
+t=a/b
+print('the quotient of numbers=', t)
