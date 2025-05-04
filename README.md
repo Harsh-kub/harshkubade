@@ -1,5 +1,5 @@
 # ASSIGNMENT 1 :
-# PERFORM BASIC MATHEMATICAL OPERATIONS:
+# TASK 1
 
 
 a=input("ENTER THE FIRST NUMBER:")
@@ -15,5 +15,8 @@ print('the product of numbers=', w)
 t=a/b
 print('the quotient of numbers=', t)
 
-# CREATE A PERSONALISED GREETING:
+# TASK 2
 
+a=input('enter your first name:')
+b=input('enter your last name:')
+print("hello," ,a , b, "!welcome to python programming")
