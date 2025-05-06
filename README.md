@@ -1,4 +1,4 @@
-# ASSIGNMENT  :
+# ASSIGNMENT 1  :
 # TASK 1
 
 
@@ -20,3 +20,13 @@ print('the quotient of numbers=', t)
 a=input('enter your first name:')
 b=input('enter your last name:')
 print("hello," ,a , b, "!welcome to python programming")
+
+# ASSIGNMENT 2
+# TASK 1
+
+n=int(input("Enter a number: "))
+if n%2==0:
+    print(n,"is a Even Number")
+else:
+    print(n ," is a Odd Number")
+
