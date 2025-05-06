@@ -21,5 +21,15 @@ a=input('enter your first name:')
 b=input('enter your last name:')
 print("hello," ,a , b, "!welcome to python programming")
 
+# assignment 2
+# task 1
+
+n=int(input("Enter a number: "))
+if n%2==0:
+    print(n,"is a Even Number")
+else:
+    print(n ," is a Odd Number")
+
+
 
 
